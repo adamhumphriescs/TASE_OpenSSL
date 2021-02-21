@@ -1,4 +1,4 @@
-#include "/playpen/humphries/other/tasetraps.h"
+#include "/TASE/test/other/tasetraps.h"
 /* test vectors from p1ovect1.txt */
 
 #include <stdio.h>

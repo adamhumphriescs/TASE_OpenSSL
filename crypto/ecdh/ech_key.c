@@ -1,4 +1,4 @@
-#include "/playpen/humphries/other/tasetraps.h"
+#include "/TASE/test/other/tasetraps.h"
 /* crypto/ecdh/ecdh_key.c */
 /* ====================================================================
  * Copyright 2002 Sun Microsystems, Inc. ALL RIGHTS RESERVED.

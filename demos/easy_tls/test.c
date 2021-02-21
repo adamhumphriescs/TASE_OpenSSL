@@ -1,4 +1,4 @@
-#include "/playpen/humphries/other/tasetraps.h"
+#include "/TASE/test/other/tasetraps.h"
 /* test.c */
 /* $Id: test.c,v 1.1 2001/09/17 19:06:59 bodo Exp $ */
 

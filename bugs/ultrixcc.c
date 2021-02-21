@@ -1,4 +1,4 @@
-#include "/playpen/humphries/other/tasetraps.h"
+#include "/TASE/test/other/tasetraps.h"
 #include <stdio.h>
 
 /* This is a cc optimiser bug for ultrix 4.3, mips CPU.

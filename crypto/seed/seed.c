@@ -1,4 +1,4 @@
-#include "/playpen/humphries/other/tasetraps.h"
+#include "/TASE/test/other/tasetraps.h"
 /*
  * Copyright (c) 2007 KISA(Korea Information Security Agency). All rights reserved.  
  *

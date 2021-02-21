@@ -1,4 +1,4 @@
-#include "/playpen/humphries/other/tasetraps.h"
+#include "/TASE/test/other/tasetraps.h"
 /* NOCW */
 /* cc -o ssdemo -I../include selfsign.c ../libcrypto.a */
 
