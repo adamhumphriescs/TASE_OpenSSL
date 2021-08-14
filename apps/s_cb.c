@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* apps/s_cb.c - callback functions used by s_client, s_server, and s_time */
 /* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
  * All rights reserved.

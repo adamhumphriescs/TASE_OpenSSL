@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* crypto/des/des_old.c -*- mode:C; c-file-style: "eay" -*- */
 
 /* WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

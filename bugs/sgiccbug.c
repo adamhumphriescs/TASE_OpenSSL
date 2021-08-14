@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* NOCW */
 /* sgibug.c */
 /* bug found by Eric Young (eay@mincom.oz.au) May 95 */

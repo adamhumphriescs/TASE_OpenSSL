@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* apps/speed.c -*- mode:C; c-file-style: "eay" -*- */
 /* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
  * All rights reserved.

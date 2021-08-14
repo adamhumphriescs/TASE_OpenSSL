@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* $LP: LPlib/source/LPdir_unix.c,v 1.11 2004/09/23 22:07:22 _cvs_levitte Exp $ */
 /*
  * Copyright (c) 2004, Richard Levitte <richard@levitte.org>

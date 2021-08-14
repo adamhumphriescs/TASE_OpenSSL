@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 #define APPLINK_STDIN	1
 #define APPLINK_STDOUT	2
 #define APPLINK_STDERR	3

@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* S/MIME signing example: 2 signers. OpenSSL 0.9.9 only */
 #include <openssl/pem.h>
 #include <openssl/pkcs7.h>

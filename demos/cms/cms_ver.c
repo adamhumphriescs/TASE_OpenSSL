@@ -1,4 +1,4 @@
-#include "/TASE/test/other/tasetraps.h"
+ 
 /* Simple S/MIME verification example */
 #include <openssl/pem.h>
 #include <openssl/cms.h>
